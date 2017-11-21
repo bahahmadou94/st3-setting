@@ -1,0 +1,14 @@
+{
+	"Color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti.sublime-theme"
+}
