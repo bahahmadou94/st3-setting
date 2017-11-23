@@ -5,13 +5,34 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"AlignTab",
+		"BracketHighlighter",
+		"Browser Refresh",
 		"Color Highlighter",
 		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
 		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Insert Nums",
+		"jQuery",
+		"JSON Reindent",
 		"LiveReload",
 		"Package Control",
+		"Phpcs",
+		"PHPUnit",
+		"Print to HTML",
+		"Sass",
 		"Seti_UI",
 		"SideBarEnhancements",
-		"SublimeLinter"
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Afterglow",
+		"TodoReview",
+		"Twig"
 	]
 }
