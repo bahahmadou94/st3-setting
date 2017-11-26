@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"AlignTab",
+		"ayu",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Browser Refresh",
 		"Color Highlighter",
@@ -23,6 +26,7 @@
 		"LiveReload",
 		"Package Control",
 		"Phpcs",
+		"PhpDoc",
 		"PHPUnit",
 		"Print to HTML",
 		"Sass",
@@ -32,6 +36,8 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Afterglow",
+		"Theme - Autumn",
+		"Theme - Curiosity",
 		"TodoReview",
 		"Twig"
 	]
